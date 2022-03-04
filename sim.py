@@ -1,4 +1,5 @@
 import scipy
+import numpy
 
 # Initial Concentrations
 IO3 = int(input()) # 0.0715
